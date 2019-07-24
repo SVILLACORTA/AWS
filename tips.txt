@@ -6,3 +6,4 @@ tip3
 tip4
 tip5
 tip6
+tip7
